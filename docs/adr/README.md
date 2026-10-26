@@ -88,6 +88,7 @@ This directory contains the Architecture Decision Records for **video-sync** (a.
 | [ADR-080](ADR-080-kaltura-category-backfill.md) | Kaltura Category Backfill in Maintain | Phase 1 shipped 2026-09-30; Phase 2 proposed; Phase 3 withdrawn — superseded by ADR-081 (2026-10-03) |
 | [ADR-081](ADR-081-kaltura-portal-category-sweep.md) | Kaltura Portal Category Sweep — Schedule-Derived Series Assignment | Phases 1–4 implemented 2026-10-03; Phase 4 ships plan-only by default |
 | [ADR-082](ADR-082-catalog-writes-must-not-lose-server-state.md) | Catalog Writes Must Not Lose Server State | Accepted — implemented 2026-10-03 |
+| [ADR-083](ADR-083-speaker-identification-and-voiceprints.md) | Speaker Identification and Voiceprints | Proposed (exploration) |
 
 ## ADR Format
 
